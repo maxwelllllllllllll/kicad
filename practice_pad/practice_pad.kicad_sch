@@ -2189,7 +2189,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 91.44 163.83 0)
 			(effects
 				(font
@@ -2345,7 +2345,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 55.88 110.49 0)
 			(effects
 				(font
@@ -2677,7 +2677,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 109.22 138.43 0)
 			(effects
 				(font
@@ -2745,7 +2745,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 91.44 110.49 0)
 			(effects
 				(font
@@ -2813,7 +2813,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 91.44 85.09 0)
 			(effects
 				(font
@@ -3145,7 +3145,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 91.44 38.1 0)
 			(effects
 				(font
@@ -3301,7 +3301,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 73.66 60.96 0)
 			(effects
 				(font
@@ -3369,7 +3369,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 55.88 163.83 0)
 			(effects
 				(font
@@ -3437,7 +3437,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 91.44 60.96 0)
 			(effects
 				(font
@@ -3593,7 +3593,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 73.66 85.09 0)
 			(effects
 				(font
@@ -3661,7 +3661,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 109.22 85.09 0)
 			(effects
 				(font
@@ -3729,7 +3729,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 55.88 60.96 0)
 			(effects
 				(font
@@ -3797,7 +3797,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 55.88 85.09 0)
 			(effects
 				(font
@@ -3865,7 +3865,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 109.22 60.96 0)
 			(effects
 				(font
@@ -3933,7 +3933,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 109.22 38.1 0)
 			(effects
 				(font
@@ -4089,7 +4089,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 73.66 110.49 0)
 			(effects
 				(font
@@ -4157,7 +4157,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 73.66 38.1 0)
 			(effects
 				(font
@@ -4313,7 +4313,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 55.88 138.43 0)
 			(effects
 				(font
@@ -4381,7 +4381,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 91.44 138.43 0)
 			(effects
 				(font
@@ -4889,7 +4889,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 73.66 138.43 0)
 			(effects
 				(font
@@ -5221,7 +5221,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_45deg"
+		(property "Value" "SW_HS"
 			(at 55.88 38.1 0)
 			(effects
 				(font

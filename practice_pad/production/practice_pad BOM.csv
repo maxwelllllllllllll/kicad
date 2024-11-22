@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW5,SW10,SW21,SW15,SW14,SW6,SW8,SW18,SW11,SW13,SW4,SW9,SW3,SW2,SW7,SW1,SW17,SW16";"SW_Hotswap_Kailh_MX_Plated_PlateMount_1.00u";18;"SW_HS";;;
+2;"SW12,SW20,SW19";"SW_Hotswap_Kailh_MX_Plated_PlateMount_2.00u";3;"SW_HS";;;
+3;"D5,D12,D14,D4,D19,D13,D11,D8,D20,D18,D9,D21,D7,D2,D3,D1,D6,D15,D16,D17,D10";"D_SOD-123";21;"D";;;
+4;"U1";"MODULE_RP2040-ZERO";1;"RP2040-ZERO";;;
